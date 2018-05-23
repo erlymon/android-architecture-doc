@@ -585,7 +585,7 @@ public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
     Navigation.findNavController(view).navigate(R.id.action_mainFragment_to_sendMoneyGraph);
     ```
 
-## Создание deep link для design
+## Создание deep link для destination
 
 В Android deep link - это URI, который указывает на конкретный destination в приложении.
 Эти URI полезны, когда вы хотите отправить пользователей в определенный destination для выполнения какой-либо задачи в вашем приложении, например, денежный поток отправки, позволяющий пользователю быстро отправлять деньги кому-либо.
