@@ -18,7 +18,7 @@ Destination - это экран, который открывается в при
 1.  Добавте следующий Архитектурный Компонент Навигации для вашего приложения или модуля в build.gradle файл.
     Дополнительные сведения о добавлении Архитектурного Компонента Навигации для build.gradle см. в разделе [Добавление компонентов в проект](https://developer.android.com/topic/libraries/architecture/adding-components#navigation).
 
-2.  В окне «Проект», щелкните правой кнопкой мыши на каталоге res и выберите **New > Android resource file.** Появится диалог **New Resource**.
+2.  В окне **Project**, щелкните правой кнопкой мыши на каталоге res и выберите **New > Android resource file.** Появится диалог **New Resource**.
 
 3.  Введите имя в поле **File name**, например **nav_graph**.
 
