@@ -6,7 +6,7 @@
 -   Live Data
 -   View Model
 -   Saving States
--   Room Persistence Library 
+-   Room Persistence Library
 -   Paging Library
--   [Навигация](/navigation/navigation.md)
+-   [Навигация](/navigation/index.md)
 -   Work Manager
